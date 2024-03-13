@@ -1,12 +1,11 @@
 <h1 align="center">
-  MOOC-JAVA
+  MOOC - JAVA
 </h1>
 
-<h2 align="center" style = "display: flex; flex-direction: column">
+<h2 align="center">
   University of Helsinki
-  <span style = "font-size: 14px" >Departament of Computer Sciense</span>
 </h2>
-
+</br>
 
 [Certificate JAVA-PROGRAMMING-I](https://certificates.mooc.fi/validate/x2upfs6okzn)
 </br>
