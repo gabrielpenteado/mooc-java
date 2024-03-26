@@ -13,4 +13,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gabrielpenteado/mooc-java/main/certificate-java-programming-i.png" alt="certificate">
 </div>
+</br>
+
+[Certificate JAVA-PROGRAMMING-II](https://certificates.mooc.fi/validate/hbyz1g6ypp4)
+</br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gabrielpenteado/mooc-java/main/certificate-java-programming-ii.png" alt="certificate">
+</div>
+
+
 
